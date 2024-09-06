@@ -1,0 +1,77 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ppPackages/
+[Aa]rtifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider directories
+.idea/
+*.sln.iml
+
+# JetBrains Rider temp and cache folders
+.idea/
+*.sln.iml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Other temp directories
+*_i.c
+*_p.c
+*_t.c
+*.cache
+
+# Files built by ASP.NET
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cache
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Build directories
+bin/
+obj/
+
+# Visual Studio working directory
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Publish outputs
+.publish/
