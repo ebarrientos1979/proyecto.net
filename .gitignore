@@ -63,6 +63,8 @@ $RECYCLE.BIN/
 # Build directories
 bin/
 obj/
+MiPrimerProyecto/MiPrimerProyecto/obj/
+MiPrimerProyecto/MiPrimerProyecto/bin/
 
 # Visual Studio working directory
 .vs/
